@@ -1,0 +1,47 @@
+body{
+	text-align: center;
+	font-family: 'Lato', 'sans-serif';
+	font-weight: 400;
+	width:100%;
+}
+#main_div{
+	text-align:left;
+	width:60%;
+	margin-left:auto; 
+	margin-right:auto;
+	padding-top:3%;
+	padding-bottom:8%;
+}
+
+#right-side{
+	background-color:white;
+	height:100vw;
+	text-align: center;
+}
+
+#left-side{
+	background-color:#660033;
+	height:100vw;
+}
+
+#center-div{
+	padding-top:13%;
+	padding-left:30px;
+	padding-right:100px;
+	text-align:left;
+}
+
+#title-login{
+	color:#5D1034;
+	font-weight: bold;
+}
+
+#signinButton{
+	background-color:#660033;
+	color:white;
+	width:80px;
+}
+
+#cred{
+	color:gray;
+}
